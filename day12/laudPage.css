@@ -1,0 +1,53 @@
+.laud{
+   
+   background-color: #1b1c1e;
+   color: aliceblue;
+    height: 500px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+.head{
+   padding-top: 200px;
+}
+.navbar-custom{
+    background-color:#1b1c1e;
+}
+a:hover{
+    background-color:gray;
+}
+.banner{
+    background-color: black;
+    color: azure;
+    margin-top: 50px;
+    height:100px;
+   text-align: center;
+
+}
+.awards{
+    border-top: -50px;
+  
+    display: flex;
+    flex-direction: row;
+}
+.line1{
+   
+line-height:0.4em;
+text-align: center;
+border-bottom: 1px solid #000;
+width: 100%;
+margin-top: 100px;
+}
+.line1 span{
+    background:#fff;
+    padding: 0 10px;
+   
+}
+.footer{
+    height:100px;
+  
+}
+.footer p{
+    padding-top: 15px;
+}
